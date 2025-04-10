@@ -1,0 +1,1702 @@
+[
+    {
+        "char": "爱",
+        "pinyin": "ài"
+    },
+    {
+        "char": "爱好",
+        "pinyin": "àihào"
+    },
+    {
+        "char": "八",
+        "pinyin": "bā"
+    },
+    {
+        "char": "白天",
+        "pinyin": "báitiān"
+    },
+    {
+        "char": "百",
+        "pinyin": "bǎi"
+    },
+    {
+        "char": "班",
+        "pinyin": "bān"
+    },
+    {
+        "char": "半",
+        "pinyin": "bàn"
+    },
+    {
+        "char": "半年",
+        "pinyin": "bàn nián"
+    },
+    {
+        "char": "半天",
+        "pinyin": "bàntiān"
+    },
+    {
+        "char": "帮",
+        "pinyin": "bāng"
+    },
+    {
+        "char": "帮忙",
+        "pinyin": "bāngmáng"
+    },
+    {
+        "char": "包",
+        "pinyin": "bāo"
+    },
+    {
+        "char": "包子",
+        "pinyin": "bāozi"
+    },
+    {
+        "char": "杯",
+        "pinyin": "bēi"
+    },
+    {
+        "char": "杯子",
+        "pinyin": "bēizi"
+    },
+    {
+        "char": "北",
+        "pinyin": "běi"
+    },
+    {
+        "char": "北边",
+        "pinyin": "běibian"
+    },
+    {
+        "char": "北京",
+        "pinyin": "Běijīng"
+    },
+    {
+        "char": "本",
+        "pinyin": "běn"
+    },
+    {
+        "char": "本子",
+        "pinyin": "běnzi"
+    },
+    {
+        "char": "比",
+        "pinyin": "bǐ"
+    },
+    {
+        "char": "别",
+        "pinyin": "bié"
+    },
+    {
+        "char": "别人",
+        "pinyin": "biérén"
+    },
+    {
+        "char": "病",
+        "pinyin": "bìng"
+    },
+    {
+        "char": "病人",
+        "pinyin": "bìngrén"
+    },
+    {
+        "char": "不大",
+        "pinyin": "bú dà"
+    },
+    {
+        "char": "不对",
+        "pinyin": "búduì"
+    },
+    {
+        "char": "茶",
+        "pinyin": "chá"
+    },
+    {
+        "char": "差",
+        "pinyin": "chà"
+    },
+    {
+        "char": "常",
+        "pinyin": "cháng"
+    },
+    {
+        "char": "常常",
+        "pinyin": "chángcháng"
+    },
+    {
+        "char": "唱",
+        "pinyin": "chàng"
+    },
+    {
+        "char": "唱歌",
+        "pinyin": "chànggē"
+    },
+    {
+        "char": "车",
+        "pinyin": "chē"
+    },
+    {
+        "char": "车票",
+        "pinyin": "chēpiào"
+    },
+    {
+        "char": "车上",
+        "pinyin": "chē shang"
+    },
+    {
+        "char": "车站",
+        "pinyin": "chēzhàn"
+    },
+    {
+        "char": "吃",
+        "pinyin": "chī"
+    },
+    {
+        "char": "穿",
+        "pinyin": "chuān"
+    },
+    {
+        "char": "床",
+        "pinyin": "chuáng"
+    },
+    {
+        "char": "次",
+        "pinyin": "cì"
+    },
+    {
+        "char": "从",
+        "pinyin": "cóng"
+    },
+    {
+        "char": "错",
+        "pinyin": "cuò"
+    },
+    {
+        "char": "打",
+        "pinyin": "dǎ"
+    },
+    {
+        "char": "打车",
+        "pinyin": "dǎchē"
+    },
+    {
+        "char": "打电话",
+        "pinyin": "dǎ diànhuà"
+    },
+    {
+        "char": "打开",
+        "pinyin": "dǎkāi"
+    },
+    {
+        "char": "打球",
+        "pinyin": "dǎ qiú"
+    },
+    {
+        "char": "大",
+        "pinyin": "dà"
+    },
+    {
+        "char": "大学",
+        "pinyin": "dàxué"
+    },
+    {
+        "char": "大学生",
+        "pinyin": "dàxuéshēng"
+    },
+    {
+        "char": "到",
+        "pinyin": "dào"
+    },
+    {
+        "char": "得到",
+        "pinyin": "dédao"
+    },
+    {
+        "char": "地",
+        "pinyin": "de"
+    },
+    {
+        "char": "的",
+        "pinyin": "de"
+    },
+    {
+        "char": "等",
+        "pinyin": "děng"
+    },
+    {
+        "char": "地",
+        "pinyin": "dì"
+    },
+    {
+        "char": "地点",
+        "pinyin": "dìdiǎn"
+    },
+    {
+        "char": "地方",
+        "pinyin": "dìfang"
+    },
+    {
+        "char": "地上",
+        "pinyin": "dìshang"
+    },
+    {
+        "char": "地图",
+        "pinyin": "dìtú"
+    },
+    {
+        "char": "弟弟",
+        "pinyin": "dìdi"
+    },
+    {
+        "char": "弟",
+        "pinyin": "dì"
+    },
+    {
+        "char": "第",
+        "pinyin": "dì"
+    },
+    {
+        "char": "电",
+        "pinyin": "diàn"
+    },
+    {
+        "char": "电话",
+        "pinyin": "diànhuà"
+    },
+    {
+        "char": "电脑",
+        "pinyin": "diànnǎo"
+    },
+    {
+        "char": "电视",
+        "pinyin": "diànshì"
+    },
+    {
+        "char": "电视机",
+        "pinyin": "diànshìjī"
+    },
+    {
+        "char": "电影",
+        "pinyin": "diànyǐng"
+    },
+    {
+        "char": "电影院",
+        "pinyin": "diànyǐngyuàn"
+    },
+    {
+        "char": "东",
+        "pinyin": "dōng"
+    },
+    {
+        "char": "东边",
+        "pinyin": "dōngbian"
+    },
+    {
+        "char": "东西",
+        "pinyin": "dōngxi"
+    },
+    {
+        "char": "动",
+        "pinyin": "dòng"
+    },
+    {
+        "char": "对",
+        "pinyin": "duì"
+    },
+    {
+        "char": "对不起",
+        "pinyin": "duìbuqǐ"
+    },
+    {
+        "char": "多",
+        "pinyin": "duō"
+    },
+    {
+        "char": "多少",
+        "pinyin": "duōshao"
+    },
+    {
+        "char": "饿",
+        "pinyin": "è"
+    },
+    {
+        "char": "儿子",
+        "pinyin": "érzi"
+    },
+    {
+        "char": "二",
+        "pinyin": "èr"
+    },
+    {
+        "char": "饭",
+        "pinyin": "fàn"
+    },
+    {
+        "char": "饭店",
+        "pinyin": "fàndiàn"
+    },
+    {
+        "char": "房间",
+        "pinyin": "fángjiān"
+    },
+    {
+        "char": "房子",
+        "pinyin": "fángzi"
+    },
+    {
+        "char": "放",
+        "pinyin": "fàng"
+    },
+    {
+        "char": "放假",
+        "pinyin": "fàngjià"
+    },
+    {
+        "char": "放学",
+        "pinyin": "fàngxué"
+    },
+    {
+        "char": "飞",
+        "pinyin": "fēi"
+    },
+    {
+        "char": "飞机",
+        "pinyin": "fēijī"
+    },
+    {
+        "char": "非常",
+        "pinyin": "fēicháng"
+    },
+    {
+        "char": "分",
+        "pinyin": "fēn"
+    },
+    {
+        "char": "风",
+        "pinyin": "fēng"
+    },
+    {
+        "char": "干",
+        "pinyin": "gān"
+    },
+    {
+        "char": "干净",
+        "pinyin": "gānjìng"
+    },
+    {
+        "char": "干什么",
+        "pinyin": "gàn shénme"
+    },
+    {
+        "char": "高",
+        "pinyin": "gāo"
+    },
+    {
+        "char": "高兴",
+        "pinyin": "gāoxìng"
+    },
+    {
+        "char": "告诉",
+        "pinyin": "gàosu"
+    },
+    {
+        "char": "哥哥",
+        "pinyin": "gēge"
+    },
+    {
+        "char": "哥",
+        "pinyin": "gē"
+    },
+    {
+        "char": "歌",
+        "pinyin": "gē"
+    },
+    {
+        "char": "跟",
+        "pinyin": "gēn"
+    },
+    {
+        "char": "工人",
+        "pinyin": "gōngrén"
+    },
+    {
+        "char": "工作",
+        "pinyin": "gōngzuò"
+    },
+    {
+        "char": "关",
+        "pinyin": "guān"
+    },
+    {
+        "char": "关上",
+        "pinyin": "guānshang"
+    },
+    {
+        "char": "贵",
+        "pinyin": "guì"
+    },
+    {
+        "char": "国",
+        "pinyin": "guó"
+    },
+    {
+        "char": "国家",
+        "pinyin": "guójiā"
+    },
+    {
+        "char": "国外",
+        "pinyin": "guó wài"
+    },
+    {
+        "char": "过",
+        "pinyin": "guò"
+    },
+    {
+        "char": "还",
+        "pinyin": "hái"
+    },
+    {
+        "char": "汉字",
+        "pinyin": "Hànzì"
+    },
+    {
+        "char": "好",
+        "pinyin": "hǎo"
+    },
+    {
+        "char": "好吃",
+        "pinyin": "hǎochī"
+    },
+    {
+        "char": "好看",
+        "pinyin": "hǎokàn"
+    },
+    {
+        "char": "好听",
+        "pinyin": "hǎotīng"
+    },
+    {
+        "char": "好玩儿",
+        "pinyin": "hǎowánr"
+    },
+    {
+        "char": "号",
+        "pinyin": "hào"
+    },
+    {
+        "char": "喝",
+        "pinyin": "hē"
+    },
+    {
+        "char": "和",
+        "pinyin": "hé"
+    },
+    {
+        "char": "很",
+        "pinyin": "hěn"
+    },
+    {
+        "char": "后",
+        "pinyin": "hòu"
+    },
+    {
+        "char": "后边",
+        "pinyin": "hòubian"
+    },
+    {
+        "char": "后天",
+        "pinyin": "hòutiān"
+    },
+    {
+        "char": "花",
+        "pinyin": "huā"
+    },
+    {
+        "char": "话",
+        "pinyin": "huà"
+    },
+    {
+        "char": "坏",
+        "pinyin": "huài"
+    },
+    {
+        "char": "还",
+        "pinyin": "huán"
+    },
+    {
+        "char": "回",
+        "pinyin": "huí"
+    },
+    {
+        "char": "回答",
+        "pinyin": "huídá"
+    },
+    {
+        "char": "回到",
+        "pinyin": "huídào"
+    },
+    {
+        "char": "回家",
+        "pinyin": "huí jiā"
+    },
+    {
+        "char": "回来",
+        "pinyin": "huílái"
+    },
+    {
+        "char": "会",
+        "pinyin": "huì"
+    },
+    {
+        "char": "火车",
+        "pinyin": "huǒchē"
+    },
+    {
+        "char": "机场",
+        "pinyin": "jīchǎng"
+    },
+    {
+        "char": "机票",
+        "pinyin": "jīpiào"
+    },
+    {
+        "char": "鸡蛋",
+        "pinyin": "jīdàn"
+    },
+    {
+        "char": "记住",
+        "pinyin": "jìzhù"
+    },
+    {
+        "char": "家",
+        "pinyin": "jiā"
+    },
+    {
+        "char": "家里",
+        "pinyin": "jiā li"
+    },
+    {
+        "char": "家人",
+        "pinyin": "jiārén"
+    },
+    {
+        "char": "间",
+        "pinyin": "jiān"
+    },
+    {
+        "char": "见",
+        "pinyin": "jiàn"
+    },
+    {
+        "char": "见面",
+        "pinyin": "jiànmiàn"
+    },
+    {
+        "char": "教",
+        "pinyin": "jiāo"
+    },
+    {
+        "char": "叫",
+        "pinyin": "jiào"
+    },
+    {
+        "char": "教学楼",
+        "pinyin": "jiàoxuélóu"
+    },
+    {
+        "char": "进",
+        "pinyin": "jìn"
+    },
+    {
+        "char": "进来",
+        "pinyin": "jìnlái"
+    },
+    {
+        "char": "进去",
+        "pinyin": "jìnqù"
+    },
+    {
+        "char": "九",
+        "pinyin": "jiǔ"
+    },
+    {
+        "char": "就",
+        "pinyin": "jiù"
+    },
+    {
+        "char": "觉得",
+        "pinyin": "juéde"
+    },
+    {
+        "char": "开",
+        "pinyin": "kāi"
+    },
+    {
+        "char": "开车",
+        "pinyin": "kāichē"
+    },
+    {
+        "char": "开会",
+        "pinyin": "kāihuì"
+    },
+    {
+        "char": "开玩笑",
+        "pinyin": "kāi wánxiào"
+    },
+    {
+        "char": "看",
+        "pinyin": "kàn"
+    },
+    {
+        "char": "看病",
+        "pinyin": "kànbìng"
+    },
+    {
+        "char": "看到",
+        "pinyin": "kàndào"
+    },
+    {
+        "char": "看见",
+        "pinyin": "kànjiàn"
+    },
+    {
+        "char": "考",
+        "pinyin": "kǎo"
+    },
+    {
+        "char": "考试",
+        "pinyin": "kǎoshì"
+    },
+    {
+        "char": "渴",
+        "pinyin": "kě"
+    },
+    {
+        "char": "课",
+        "pinyin": "kè"
+    },
+    {
+        "char": "课本",
+        "pinyin": "kèběn"
+    },
+    {
+        "char": "课文",
+        "pinyin": "kèwén"
+    },
+    {
+        "char": "口",
+        "pinyin": "kǒu"
+    },
+    {
+        "char": "块",
+        "pinyin": "kuài"
+    },
+    {
+        "char": "快",
+        "pinyin": "kuài"
+    },
+    {
+        "char": "来",
+        "pinyin": "lái"
+    },
+    {
+        "char": "来到",
+        "pinyin": "láidào"
+    },
+    {
+        "char": "老",
+        "pinyin": "lǎo"
+    },
+    {
+        "char": "老人",
+        "pinyin": "lǎorén"
+    },
+    {
+        "char": "累",
+        "pinyin": "lèi"
+    },
+    {
+        "char": "冷",
+        "pinyin": "lěng"
+    },
+    {
+        "char": "里",
+        "pinyin": "lǐ"
+    },
+    {
+        "char": "里边",
+        "pinyin": "lǐbian"
+    },
+    {
+        "char": "两",
+        "pinyin": "liǎng"
+    },
+    {
+        "char": "零",
+        "pinyin": "líng"
+    },
+    {
+        "char": "六",
+        "pinyin": "liù"
+    },
+    {
+        "char": "楼",
+        "pinyin": "lóu"
+    },
+    {
+        "char": "楼上",
+        "pinyin": "lóu shàng"
+    },
+    {
+        "char": "楼下",
+        "pinyin": "lóu xià"
+    },
+    {
+        "char": "路",
+        "pinyin": "lù"
+    },
+    {
+        "char": "马上",
+        "pinyin": "mǎshàng"
+    },
+    {
+        "char": "吗",
+        "pinyin": "ma"
+    },
+    {
+        "char": "买",
+        "pinyin": "mǎi"
+    },
+    {
+        "char": "慢",
+        "pinyin": "màn"
+    },
+    {
+        "char": "忙",
+        "pinyin": "máng"
+    },
+    {
+        "char": "毛",
+        "pinyin": "máo"
+    },
+    {
+        "char": "没",
+        "pinyin": "méi"
+    },
+    {
+        "char": "没关系",
+        "pinyin": "méi guānxi"
+    },
+    {
+        "char": "没什么",
+        "pinyin": "méi shénme"
+    },
+    {
+        "char": "没事儿",
+        "pinyin": "méishìr"
+    },
+    {
+        "char": "没有",
+        "pinyin": "méiyǒu"
+    },
+    {
+        "char": "妹妹",
+        "pinyin": "mèimei"
+    },
+    {
+        "char": "妹",
+        "pinyin": "mèi"
+    },
+    {
+        "char": "门",
+        "pinyin": "mén"
+    },
+    {
+        "char": "门口",
+        "pinyin": "ménkǒu"
+    },
+    {
+        "char": "门票",
+        "pinyin": "ménpiào"
+    },
+    {
+        "char": "们",
+        "pinyin": "men"
+    },
+    {
+        "char": "米饭",
+        "pinyin": "mǐfàn"
+    },
+    {
+        "char": "面包",
+        "pinyin": "miànbāo"
+    },
+    {
+        "char": "面条儿",
+        "pinyin": "miàntiáor"
+    },
+    {
+        "char": "名字",
+        "pinyin": "míngzi"
+    },
+    {
+        "char": "明白",
+        "pinyin": "míngbai"
+    },
+    {
+        "char": "明年",
+        "pinyin": "míngnián"
+    },
+    {
+        "char": "明天",
+        "pinyin": "míngtiān"
+    },
+    {
+        "char": "拿",
+        "pinyin": "ná"
+    },
+    {
+        "char": "哪",
+        "pinyin": "nǎ"
+    },
+    {
+        "char": "那",
+        "pinyin": "nà"
+    },
+    {
+        "char": "那边",
+        "pinyin": "nàbiān"
+    },
+    {
+        "char": "那里",
+        "pinyin": "nàlǐ"
+    },
+    {
+        "char": "那儿",
+        "pinyin": "nàr"
+    },
+    {
+        "char": "那些",
+        "pinyin": "nàxiē"
+    },
+    {
+        "char": "奶",
+        "pinyin": "nǎi"
+    },
+    {
+        "char": "奶奶",
+        "pinyin": "nǎinai"
+    },
+    {
+        "char": "男",
+        "pinyin": "nán"
+    },
+    {
+        "char": "男孩儿",
+        "pinyin": "nánháir"
+    },
+    {
+        "char": "男朋友",
+        "pinyin": "nánpéngyou"
+    },
+    {
+        "char": "男人",
+        "pinyin": "nánrén"
+    },
+    {
+        "char": "呢",
+        "pinyin": "ne"
+    },
+    {
+        "char": "能",
+        "pinyin": "néng"
+    },
+    {
+        "char": "你",
+        "pinyin": "nǐ"
+    },
+    {
+        "char": "你们",
+        "pinyin": "nǐmen"
+    },
+    {
+        "char": "年",
+        "pinyin": "nián"
+    },
+    {
+        "char": "您",
+        "pinyin": "nín"
+    },
+    {
+        "char": "牛奶",
+        "pinyin": "niúnǎi"
+    },
+    {
+        "char": "女",
+        "pinyin": "nǚ"
+    },
+    {
+        "char": "女儿",
+        "pinyin": "nǚ'ér"
+    },
+    {
+        "char": "女孩儿",
+        "pinyin": "nǚháir"
+    },
+    {
+        "char": "女朋友",
+        "pinyin": "nǚpéngyou"
+    },
+    {
+        "char": "女人",
+        "pinyin": "nǚrén"
+    },
+    {
+        "char": "女生",
+        "pinyin": "nǚshēng"
+    },
+    {
+        "char": "旁边",
+        "pinyin": "pángbiān"
+    },
+    {
+        "char": "跑",
+        "pinyin": "pǎo"
+    },
+    {
+        "char": "朋友",
+        "pinyin": "péngyou"
+    },
+    {
+        "char": "票",
+        "pinyin": "piào"
+    },
+    {
+        "char": "七",
+        "pinyin": "qī"
+    },
+    {
+        "char": "起",
+        "pinyin": "qǐ"
+    },
+    {
+        "char": "起床",
+        "pinyin": "qǐchuáng"
+    },
+    {
+        "char": "起来",
+        "pinyin": "qǐlái"
+    },
+    {
+        "char": "汽车",
+        "pinyin": "qìchē"
+    },
+    {
+        "char": "前",
+        "pinyin": "qián"
+    },
+    {
+        "char": "前边",
+        "pinyin": "qiánbian"
+    },
+    {
+        "char": "前天",
+        "pinyin": "qiántiān"
+    },
+    {
+        "char": "钱",
+        "pinyin": "qián"
+    },
+    {
+        "char": "钱包",
+        "pinyin": "qiánbāo"
+    },
+    {
+        "char": "请",
+        "pinyin": "qǐng"
+    },
+    {
+        "char": "请坐",
+        "pinyin": "qǐng zuò"
+    },
+    {
+        "char": "球",
+        "pinyin": "qiú"
+    },
+    {
+        "char": "去",
+        "pinyin": "qù"
+    },
+    {
+        "char": "去年",
+        "pinyin": "qùnián"
+    },
+    {
+        "char": "热",
+        "pinyin": "rè"
+    },
+    {
+        "char": "人",
+        "pinyin": "rén"
+    },
+    {
+        "char": "认识",
+        "pinyin": "rènshi"
+    },
+    {
+        "char": "认真",
+        "pinyin": "rènzhēn"
+    },
+    {
+        "char": "日",
+        "pinyin": "rì"
+    },
+    {
+        "char": "日期",
+        "pinyin": "rìqī"
+    },
+    {
+        "char": "肉",
+        "pinyin": "ròu"
+    },
+    {
+        "char": "上",
+        "pinyin": "shàng"
+    },
+    {
+        "char": "上班",
+        "pinyin": "shàngbān"
+    },
+    {
+        "char": "上边",
+        "pinyin": "shàngbian"
+    },
+    {
+        "char": "上车",
+        "pinyin": "shàng chē"
+    },
+    {
+        "char": "上次",
+        "pinyin": "shàng cì"
+    },
+    {
+        "char": "上课",
+        "pinyin": "shàngkè"
+    },
+    {
+        "char": "上网",
+        "pinyin": "shàngwǎng"
+    },
+    {
+        "char": "上午",
+        "pinyin": "shàngwǔ"
+    },
+    {
+        "char": "上学",
+        "pinyin": "shàngxué"
+    },
+    {
+        "char": "少",
+        "pinyin": "shǎo"
+    },
+    {
+        "char": "谁",
+        "pinyin": "shéi"
+    },
+    {
+        "char": "身上",
+        "pinyin": "shēnshang"
+    },
+    {
+        "char": "身体",
+        "pinyin": "shēntǐ"
+    },
+    {
+        "char": "什么",
+        "pinyin": "shénme"
+    },
+    {
+        "char": "生病",
+        "pinyin": "shēngbìng"
+    },
+    {
+        "char": "生气",
+        "pinyin": "shēngqì"
+    },
+    {
+        "char": "生日",
+        "pinyin": "shēngrì"
+    },
+    {
+        "char": "十",
+        "pinyin": "shí"
+    },
+    {
+        "char": "时候",
+        "pinyin": "shíhou"
+    },
+    {
+        "char": "时间",
+        "pinyin": "shíjiān"
+    },
+    {
+        "char": "事",
+        "pinyin": "shì"
+    },
+    {
+        "char": "试",
+        "pinyin": "shì"
+    },
+    {
+        "char": "是",
+        "pinyin": "shì"
+    },
+    {
+        "char": "是不是",
+        "pinyin": "shì bu shì"
+    },
+    {
+        "char": "手",
+        "pinyin": "shǒu"
+    },
+    {
+        "char": "手机",
+        "pinyin": "shǒujī"
+    },
+    {
+        "char": "书",
+        "pinyin": "shū"
+    },
+    {
+        "char": "书包",
+        "pinyin": "shūbāo"
+    },
+    {
+        "char": "书店",
+        "pinyin": "shūdiàn"
+    },
+    {
+        "char": "睡",
+        "pinyin": "shuì"
+    },
+    {
+        "char": "睡觉",
+        "pinyin": "shuìjiào"
+    },
+    {
+        "char": "说",
+        "pinyin": "shuō"
+    },
+    {
+        "char": "说话",
+        "pinyin": "shuōhuà"
+    },
+    {
+        "char": "四",
+        "pinyin": "sì"
+    },
+    {
+        "char": "送",
+        "pinyin": "sòng"
+    },
+    {
+        "char": "岁",
+        "pinyin": "suì"
+    },
+    {
+        "char": "他",
+        "pinyin": "tā"
+    },
+    {
+        "char": "他们",
+        "pinyin": "tāmen"
+    },
+    {
+        "char": "她",
+        "pinyin": "tā"
+    },
+    {
+        "char": "她们",
+        "pinyin": "tāmen"
+    },
+    {
+        "char": "听到",
+        "pinyin": "tīngdào"
+    },
+    {
+        "char": "听见",
+        "pinyin": "tīngjiàn"
+    },
+    {
+        "char": "听写",
+        "pinyin": "tīngxiě"
+    },
+    {
+        "char": "同学",
+        "pinyin": "tóngxué"
+    },
+    {
+        "char": "图书馆",
+        "pinyin": "túshūguǎn"
+    },
+    {
+        "char": "外",
+        "pinyin": "wài"
+    },
+    {
+        "char": "外边",
+        "pinyin": "wàibian"
+    },
+    {
+        "char": "外国",
+        "pinyin": "wàiguó"
+    },
+    {
+        "char": "外语",
+        "pinyin": "wàiyǔ"
+    },
+    {
+        "char": "玩儿",
+        "pinyin": "wánr"
+    },
+    {
+        "char": "晚",
+        "pinyin": "wǎn"
+    },
+    {
+        "char": "晚饭",
+        "pinyin": "wǎnfàn"
+    },
+    {
+        "char": "晚上",
+        "pinyin": "wǎnshang"
+    },
+    {
+        "char": "网上",
+        "pinyin": "wǎng shang"
+    },
+    {
+        "char": "网友",
+        "pinyin": "wǎngyǒu"
+    },
+    {
+        "char": "忘",
+        "pinyin": "wàng"
+    },
+    {
+        "char": "忘记",
+        "pinyin": "wàngjì"
+    },
+    {
+        "char": "问",
+        "pinyin": "wèn"
+    },
+    {
+        "char": "我",
+        "pinyin": "wǒ"
+    },
+    {
+        "char": "我们",
+        "pinyin": "wǒmen"
+    },
+    {
+        "char": "五",
+        "pinyin": "wǔ"
+    },
+    {
+        "char": "午饭",
+        "pinyin": "wǔfàn"
+    },
+    {
+        "char": "西",
+        "pinyin": "xī"
+    },
+    {
+        "char": "西边",
+        "pinyin": "xībian"
+    },
+    {
+        "char": "洗",
+        "pinyin": "xǐ"
+    },
+    {
+        "char": "洗手间",
+        "pinyin": "xǐshǒujiān"
+    },
+    {
+        "char": "喜欢",
+        "pinyin": "xǐhuan"
+    },
+    {
+        "char": "下",
+        "pinyin": "xià"
+    },
+    {
+        "char": "下次",
+        "pinyin": "xià cì"
+    },
+    {
+        "char": "下课",
+        "pinyin": "xiàkè"
+    },
+    {
+        "char": "下午",
+        "pinyin": "xiàwǔ"
+    },
+    {
+        "char": "下雨",
+        "pinyin": "xià yǔ"
+    },
+    {
+        "char": "先",
+        "pinyin": "xiān"
+    },
+    {
+        "char": "先生",
+        "pinyin": "xiānsheng"
+    },
+    {
+        "char": "现在",
+        "pinyin": "xiànzài"
+    },
+    {
+        "char": "想",
+        "pinyin": "xiǎng"
+    },
+    {
+        "char": "小",
+        "pinyin": "xiǎo"
+    },
+    {
+        "char": "小孩儿",
+        "pinyin": "xiǎoháir"
+    },
+    {
+        "char": "小姐",
+        "pinyin": "xiǎojiě"
+    },
+    {
+        "char": "小学生",
+        "pinyin": "xiǎoxuéshēng"
+    },
+    {
+        "char": "笑",
+        "pinyin": "xiào"
+    },
+    {
+        "char": "写",
+        "pinyin": "xiě"
+    },
+    {
+        "char": "谢谢",
+        "pinyin": "xièxie"
+    },
+    {
+        "char": "新",
+        "pinyin": "xīn"
+    },
+    {
+        "char": "新年",
+        "pinyin": "xīnnián"
+    },
+    {
+        "char": "星期",
+        "pinyin": "xīngqī"
+    },
+    {
+        "char": "星期日",
+        "pinyin": "xīngqīrì"
+    },
+    {
+        "char": "星期天",
+        "pinyin": "xīngqītiān"
+    },
+    {
+        "char": "行",
+        "pinyin": "xíng"
+    },
+    {
+        "char": "休息",
+        "pinyin": "xiūxi"
+    },
+    {
+        "char": "学",
+        "pinyin": "xué"
+    },
+    {
+        "char": "学生",
+        "pinyin": "xuésheng"
+    },
+    {
+        "char": "学习",
+        "pinyin": "xuéxí"
+    },
+    {
+        "char": "学校",
+        "pinyin": "xuéxiào"
+    },
+    {
+        "char": "学院",
+        "pinyin": "xuéyuàn"
+    },
+    {
+        "char": "要",
+        "pinyin": "yào"
+    },
+    {
+        "char": "爷爷",
+        "pinyin": "yéye"
+    },
+    {
+        "char": "也",
+        "pinyin": "yě"
+    },
+    {
+        "char": "页",
+        "pinyin": "yè"
+    },
+    {
+        "char": "一",
+        "pinyin": "yī"
+    },
+    {
+        "char": "衣服",
+        "pinyin": "yīfu"
+    },
+    {
+        "char": "医生",
+        "pinyin": "yīshēng"
+    },
+    {
+        "char": "医院",
+        "pinyin": "yīyuàn"
+    },
+    {
+        "char": "一半",
+        "pinyin": "yíbàn"
+    },
+    {
+        "char": "一会儿",
+        "pinyin": "yíhuìr"
+    },
+    {
+        "char": "一块儿",
+        "pinyin": "yíkuàir"
+    },
+    {
+        "char": "一下儿",
+        "pinyin": "yíxiàr"
+    },
+    {
+        "char": "一样",
+        "pinyin": "yíyàng"
+    },
+    {
+        "char": "一些",
+        "pinyin": "yìxiē"
+    },
+    {
+        "char": "用",
+        "pinyin": "yòng"
+    },
+    {
+        "char": "有",
+        "pinyin": "yǒu"
+    },
+    {
+        "char": "有的",
+        "pinyin": "yǒude"
+    },
+    {
+        "char": "有名",
+        "pinyin": "yǒumíng"
+    },
+    {
+        "char": "有时候",
+        "pinyin": "yǒushíhou"
+    },
+    {
+        "char": "有(一)些",
+        "pinyin": "yǒu(yì)xiē"
+    },
+    {
+        "char": "有用",
+        "pinyin": "yǒuyòng"
+    },
+    {
+        "char": "右",
+        "pinyin": "yòu"
+    },
+    {
+        "char": "右边",
+        "pinyin": "yòubian"
+    },
+    {
+        "char": "月",
+        "pinyin": "yuè"
+    },
+    {
+        "char": "再",
+        "pinyin": "zài"
+    },
+    {
+        "char": "再见",
+        "pinyin": "zàijiàn"
+    },
+    {
+        "char": "在",
+        "pinyin": "zài"
+    },
+    {
+        "char": "在家",
+        "pinyin": "zàijiā"
+    },
+    {
+        "char": "早",
+        "pinyin": "zǎo"
+    },
+    {
+        "char": "早饭",
+        "pinyin": "zǎofàn"
+    },
+    {
+        "char": "早上",
+        "pinyin": "zǎoshang"
+    },
+    {
+        "char": "怎么",
+        "pinyin": "zěnme"
+    },
+    {
+        "char": "站",
+        "pinyin": "zhàn"
+    },
+    {
+        "char": "找",
+        "pinyin": "zhǎo"
+    },
+    {
+        "char": "找到",
+        "pinyin": "zhǎodào"
+    },
+    {
+        "char": "这",
+        "pinyin": "zhè"
+    },
+    {
+        "char": "这边",
+        "pinyin": "zhèbiān"
+    },
+    {
+        "char": "这里",
+        "pinyin": "zhèlǐ"
+    },
+    {
+        "char": "这儿",
+        "pinyin": "zhèr"
+    },
+    {
+        "char": "这些",
+        "pinyin": "zhèxiē"
+    },
+    {
+        "char": "着",
+        "pinyin": "zhe"
+    },
+    {
+        "char": "真",
+        "pinyin": "zhēn"
+    },
+    {
+        "char": "真的",
+        "pinyin": "zhēn de"
+    },
+    {
+        "char": "正",
+        "pinyin": "zhèng"
+    },
+    {
+        "char": "正在",
+        "pinyin": "zhèngzài"
+    },
+    {
+        "char": "知道",
+        "pinyin": "zhīdao"
+    },
+    {
+        "char": "知识",
+        "pinyin": "zhīshi"
+    },
+    {
+        "char": "中",
+        "pinyin": "zhōng"
+    },
+    {
+        "char": "中国",
+        "pinyin": "Zhōngguó"
+    },
+    {
+        "char": "中间",
+        "pinyin": "zhōngjiān"
+    },
+    {
+        "char": "中学生",
+        "pinyin": "zhōngxuéshēng"
+    },
+    {
+        "char": "重",
+        "pinyin": "zhòng"
+    },
+    {
+        "char": "重要",
+        "pinyin": "zhòngyào"
+    },
+    {
+        "char": "住",
+        "pinyin": "zhù"
+    },
+    {
+        "char": "准备",
+        "pinyin": "zhǔnbèi"
+    },
+    {
+        "char": "桌子",
+        "pinyin": "zhuōzi"
+    },
+    {
+        "char": "字",
+        "pinyin": "zì"
+    },
+    {
+        "char": "子",
+        "pinyin": "zi"
+    },
+    {
+        "char": "走",
+        "pinyin": "zǒu"
+    },
+    {
+        "char": "走路",
+        "pinyin": "zǒulù"
+    },
+    {
+        "char": "左",
+        "pinyin": "zuǒ"
+    },
+    {
+        "char": "左边",
+        "pinyin": "zuǒbian"
+    },
+    {
+        "char": "坐",
+        "pinyin": "zuò"
+    },
+    {
+        "char": "坐下",
+        "pinyin": "zuòxia"
+    },
+    {
+        "char": "做",
+        "pinyin": "zuò"
+    }
+]
